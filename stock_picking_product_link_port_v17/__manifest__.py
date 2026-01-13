@@ -2,7 +2,7 @@
 # License AGPL-3.0 or later (https://www.gnu.org/licenses/agpl.html).
 
 {
-    "name": "Stock Picking Product Link",
+    "name": "Stock Picking Product Link - Port v17",
     "version": "17.0.1.0.0",
     "depends": ["stock"],
     "author": "Odoo Community Association (OCA), Coop IT Easy SC",
